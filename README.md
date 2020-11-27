@@ -1,4 +1,5 @@
-### 🌱 I’m currently learning Python 🐍
+### 🌱 I’m currently learning Python 🐍 and Java ☕
+
 
 <!--
 **fjavierlh/fjavierlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

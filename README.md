@@ -1,4 +1,6 @@
-### 🌱 I’m currently learning Python 🐍 and Java ☕
+# Hi!👋 I'm Javi
+## I’m currently learning Python 🐍 `&&` Java ☕
+
 
 
 <!--

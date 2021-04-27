@@ -1,6 +1,6 @@
 
-# Hi, I'm Javi 👋 
-#### Father⚡ & Web developer🚀
+# Hi, I'm Javi 👋
+Father⚡ & Web developer🚀
 
 ## 👦🏻 About me 
 ```java

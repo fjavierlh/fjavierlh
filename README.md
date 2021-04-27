@@ -1,8 +1,8 @@
 
-# Hi, I'm Javi 👋
- Father⚡ & Web developer🚀 
+# Hi, I'm Javi 👋 
+#### Father⚡ & Web developer🚀
 
-## About me 👦🏻 
+## 👦🏻 About me 
 ```java
 public class JaviLopez {
 
@@ -19,3 +19,7 @@ public class JaviLopez {
   }
 }
 ```
+<!--
+## 💼 Some projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjavierlh&repo=guia-social)](https://github.com/fjavierlh/guia-social)
+-->

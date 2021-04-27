@@ -1,5 +1,8 @@
 
 # Hi, I'm Javi 👋
+ Father⚡ & Web developer🚀 
+
+## About me 👦🏻 
 ```java
 public class JaviLopez {
 

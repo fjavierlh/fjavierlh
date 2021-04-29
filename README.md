@@ -20,7 +20,7 @@ public class JaviLopez {
 }
 ```
 
-## I've used...
+## I use...
 ![Python](img/python.svg)
 ![Flask](img/flask.svg)
 ![Bootstrap](img/bootstrap.svg)

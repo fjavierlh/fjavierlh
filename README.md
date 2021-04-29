@@ -20,7 +20,7 @@ public class JaviLopez {
 }
 ```
 
-## 🎒 Tech background
+## 🎒 My tech background
 ![Python](img/python.svg)
 ![Flask](img/flask.svg)
 ![Bootstrap](img/bootstrap.svg)

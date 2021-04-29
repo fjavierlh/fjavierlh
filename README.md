@@ -20,7 +20,7 @@ public class JaviLopez {
 }
 ```
 
-## I use...
+## 🎒 I've background in...
 ![Python](img/python.svg)
 ![Flask](img/flask.svg)
 ![Bootstrap](img/bootstrap.svg)

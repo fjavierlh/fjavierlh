@@ -19,7 +19,3 @@ public class JaviLopez {
   }
 }
 ```
-<!--
-## 💼 Some projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fjavierlh&repo=guia-social)](https://github.com/fjavierlh/guia-social)
--->

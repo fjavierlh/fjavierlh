@@ -21,8 +21,18 @@ public class JaviLopez {
 ```
 
 ## 🎒 My tech background
+### Languages
+![HTML](img/html.svg)
+![CSS](img/css.svg)
+![JavaScript](img/javascript.svg)
+![Java](img/java.svg)
 ![Python](img/python.svg)
+### Frameworks
+<!--![Spring](img/spring.svg-->
 ![Flask](img/flask.svg)
 ![Bootstrap](img/bootstrap.svg)
 ![SQLite](img/sqlite.svg)
+### Tools
 ![Docker](img/docker.svg)
+<!--![Maven](img/maven.svg-->
+<!--![Git](img/git.svg-->

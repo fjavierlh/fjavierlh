@@ -48,8 +48,8 @@
 [![Azure](img/tech_icons/azure.svg)](#-my-tech-background)&nbsp;
 [![Maven](img/tech_icons/maven.svg)](#-my-tech-background)&nbsp;
 [![Git](img/tech_icons/git.svg)](#-my-tech-background)&nbsp;
-[![GitHub](img/tech_icons/github.svg)](#-my-tech-background)
-[![Vscode](img/tech_icons/vscode.svg)](#-my-tech-background)
+[![GitHub](img/tech_icons/github.svg)](#-my-tech-background)&nbsp;
+[![Vscode](img/tech_icons/vscode.svg)](#-my-tech-background)&nbsp;
 <!--[![Eclipse](img/tech_icons/eclipse.svg)](#-my-tech-background)-->
 <!--[![Linux](img/tech_icons/linux.svg)](#-my-tech-background)-->
 <!--[![Bash](img/tech_icons/bash.svg)](#-my-tech-background)-->

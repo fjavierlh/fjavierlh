@@ -2,7 +2,7 @@
 ## Hi there 👋 I'm Javi López
 ### Father⚡ & Web developer🚀
 
-## 🧑 About me
+## 👦🏻 About me
 - 🌱 **I'm currently looking for...** grow professional and personly.
 - 🎓 **I'm currently studiying...** web development degree.
 - 💓 **I'm love...**

@@ -17,7 +17,7 @@
   - [ ] Start contributing to open source projects
   - [ ] Finish web development degree
 
-## 📬 Contact
+## 📬 Contact me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/fjavierlh" target="_blank">![LinkedIn](img/contact/linkedin.svg)</a>
 &nbsp;

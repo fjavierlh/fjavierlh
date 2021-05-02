@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fjavierlh.fjavierlh)
-
-
 ## Hi there 👋 I'm Javi López
 ### Father⚡ & Web developer🚀
 
@@ -20,15 +17,9 @@
   - [ ] Finish web development degree
 
 ## 📬 Contact me
-<a href="https://www.linkedin.com/in/fjavierlh" target="_blank">
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://t.me/fjavierlh" target="_blank">
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</a>
-<a href="https://www.instagram.com/fjavierlh/" target="_blank">
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)
-</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fjavierlh)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fjavierlh)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fjavierlh)
 
 ## 🎒 My tech background
 ### Languages

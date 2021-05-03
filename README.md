@@ -17,7 +17,7 @@
   - [ ] Finish web development degree
 
 ## 📬 Contact me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white?logoWidth=60)](https://www.linkedin.com/in/fjavierlh)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white?logoWidth=60)](https://www.linkedin.com/in/fjavierlh)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fjavierlh)
 &nbsp;

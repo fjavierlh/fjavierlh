@@ -12,7 +12,7 @@
   - 🛠️ Repair any broken thing
 - 📖 **I'm currently learning...** too much technologies and concepts!😹 *API Rest, modern JS, Spring, Docker, React, Design patterns, etc*. Really, please, can somebody stop me?
 - 🏁 **2021 goals:**
-  - [ ] Get a job as web developer 
+  - [x] Get a job as web developer 
   - [ ] Start contributing to open source projects
   - [ ] Finish web development degree
 

@@ -10,11 +10,8 @@
   - 🍞 Make bread
   - 🧶 Solve problems
   - 🛠️ Repair any broken thing
-- 📖 **I'm currently learning...** too much technologies and concepts!😹 *API Rest, modern JS, Spring, Docker, React, Design patterns, etc*. Really, please, can somebody stop me?
-- 🏁 **2021 goals:**
-  - [x] Get a job as web developer 
-  - [ ] Start contributing to open source projects
-  - [ ] Finish web development degree
+- 📖 **I'm currently learning...** too much technologies and concepts!😹 *API Rest, modern JS, Docker, React, Design patterns, etc*. Really, please, can somebody stop me?
+
 
 ## 📬 Contact me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white?logoWidth=60)](https://www.linkedin.com/in/fjavierlh)
